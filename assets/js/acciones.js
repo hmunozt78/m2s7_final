@@ -54,7 +54,6 @@ function ofertasComerciales(){
         opcionoc= prompt("Mentel tiene una oferta comercial acorde a tus necesidades. \nPara conocer mas informacion y ser asesorado personalmente por un ejecutivo, escribe SI y un ejecutivo te llamara. De lo contrario escribe NO");
 
         opcionoc = opcionoc.toUpperCase();
-        alert(opcionoc);
 
         switch (opcionoc){
             case "SI":
